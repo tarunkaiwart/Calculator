@@ -18,9 +18,7 @@ This project is a migration of a calculator application from **Xamarin C#** to *
 - [Architecture](#architecture)  
 - [Migration Strategy](#migration-strategy)  
 - [Challenges and Fixes](#challenges-and-fixes)  
-- [Testing](#testing)  
-- [Contributing](#contributing)  
-- [License](#license)
+- [Testing](#testing) 
 
 
 ---
